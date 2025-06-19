@@ -1,4 +1,5 @@
 
+
 ### 👋 Hello! Hallo! Zdravei!
 
 * 👋 Hello, I'm Lora, a **software developer in training**.
@@ -11,6 +12,14 @@
 
 ### GitHub Profil Statistiken
 
-[![Dein GitHub Stats](https://github-readme-stats.vercel.app/api?username=**DEIN_GITHUB_BENUTZERNAME**&show_icons=true&hide_title=true&hide=issues,prs&theme=dark&include_all_commits=true&count_private=true)](https://github.com/**DEIN_GITHUB_BENUTZERNAME**)
+[![Dein GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoraOliv&show_icons=true&hide_title=true&hide=issues,prs&theme=dark&include_all_commits=true&count_private=true)](https://github.com/LoraOliv)
+
+
+
+
+
+
+
+
 
 
