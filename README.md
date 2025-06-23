@@ -1,6 +1,6 @@
 
 
-### 👋 Hello! Hallo! Zdravei!
+### 👋 Hello! Hallo!
 
 * 👋 Hello, I'm Lora, a **software developer in training**.
 * 🌱  I’m currently learning **frontend and backend development + Java**.
